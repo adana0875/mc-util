@@ -1,0 +1,47 @@
+services:
+  minecraft:
+    image: docker.io/itzg/minecraft-server:java21-graalvm
+    container_name: mc-fabric-server
+    restart: unless-stopped
+
+    ports:
+      - "25565:25565"
+
+    environment:
+      EULA: "TRUE"
+
+      # Server type + version
+      TYPE: "FABRIC"
+      VERSION: "1.21.1"
+
+      # Memory settings
+      MEMORY: "6G"
+
+      # Optional settings
+      MOTD: "Fabric 1.21.1 Server"
+      ENABLE_RCON: "true"
+      RCON_PASSWORD: "stone_p4ss*!26"
+      ONLINE_MODE: "true"
+
+      STOP_SERVER_ANNOUNCE_DELAY: "60"
+
+      SEED: "1332982513"
+
+      ENABLE_WHITELIST: "true"
+      WHITELIST: |
+        <add_whitelist>
+      OPS: |
+        <add_ops>
+      CUSTOM_SERVER_PROPERTIES: |
+        sync-chunk-writes=false
+
+    volumes:
+      # Main server data
+      - ./data:/data:Z
+
+      # Separate mods/config from export
+      - ./export/mods:/mods:Z
+      - ./export/config:/config:Z
+
+    stdin_open: true
+    tty: true
