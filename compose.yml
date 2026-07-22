@@ -1,7 +1,7 @@
 services:
   minecraft:
     image: docker.io/itzg/minecraft-server:java21-graalvm
-    container_name: mc-fabric-server
+    container_name: minecraft-fusion
     restart: unless-stopped
 
     ports:
@@ -11,27 +11,26 @@ services:
       EULA: "TRUE"
 
       # Server type + version
-      TYPE: "FABRIC"
+      TYPE: "NEOFORGE"
       VERSION: "1.21.1"
 
       # Memory settings
-      MEMORY: "6G"
+      MEMORY: "12G"
+      USE_AIKAR_FLAGS: "TRUE"
 
       # Optional settings
-      MOTD: "Fabric 1.21.1 Server"
+      MOTD: "Minecraft Server 1.21.1"
       ENABLE_RCON: "true"
-      RCON_PASSWORD: "stone_p4ss*!26"
+      RCON_PASSWORD: "<insert_pass>"
       ONLINE_MODE: "true"
 
       STOP_SERVER_ANNOUNCE_DELAY: "60"
 
-      SEED: "1332982513"
-
       ENABLE_WHITELIST: "true"
       WHITELIST: |
-        <add_whitelist>
+        <add_users>
       OPS: |
-        <add_ops>
+        <add_users>
       CUSTOM_SERVER_PROPERTIES: |
         sync-chunk-writes=false
 
@@ -39,9 +38,9 @@ services:
       # Main server data
       - ./data:/data:Z
 
-      # Separate mods/config from export
-      - ./export/mods:/mods:Z
-      - ./export/config:/config:Z
+      # Link mods/config to folder
+      - ./conf/mods:/data/mods:Z
+      - ./conf/config:/data/config:Z
 
     stdin_open: true
     tty: true
