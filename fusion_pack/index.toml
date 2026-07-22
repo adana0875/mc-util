@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "19d6b20763edf0247e395db37d6e7e5b012ca063f5820c81a6330baff2218c4e"
+hash = "c65748ba4e13309eeba1dae2dfb348ad9b6348a093dc02a901e3e5a2a6110b0d"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
+hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
 metafile = true
 
 [[files]]
@@ -81,6 +81,11 @@ hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
@@ -92,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "17a19b546170937c6c676c026b1cd80909ac7ac4fe70b1830ce37b9c72585085"
+hash = "cc79b689faf345a5aa19ead3423726b6f87c267d686fb5807738e0cd20756679"
 metafile = true
 
 [[files]]
@@ -142,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/comfortable-campfires.pw.toml"
-hash = "db5e3847a52ce76e3d31ff529f891ba10fb0b778e0c66ac263042ec3dfeee68d"
+hash = "8067e26b8ea1eb23d134841508a6ab96b1eba73074353b5556ce7a4176589876"
 metafile = true
 
 [[files]]
@@ -177,12 +182,17 @@ metafile = true
 
 [[files]]
 file = "mods/dismount-entity.pw.toml"
-hash = "3a191ec81bcc9d5e55193d4836abbd8d3b74ca2f391c9f6e73237ab01880e482"
+hash = "839fe18f0bca3f52ee0f7b8b303c314b5858ca1f86511244ed9449de8192928c"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
+metafile = true
+
+[[files]]
+file = "mods/durability-plus.pw.toml"
+hash = "4df86a1620217251fc0c2bd6971a207bd3745db6f729b2175818948f43fc9e6e"
 metafile = true
 
 [[files]]
@@ -203,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "9f96f136c61af30a45a3c85588d8906ae8031b58316ae70d16930c01fd211ed6"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
@@ -347,17 +362,17 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "24108936876681291323c2ba37f0a8da6ae4a779411e360d480f21ab145c396b"
+hash = "c0da49724f00d45790ec1d1013cec6e4b303f09625d2acbf3deddcab5f13e2f1"
 metafile = true
 
 [[files]]
 file = "mods/larion-worldgen.pw.toml"
-hash = "cfd9584cd85b80ce1bc993112f337200ea603149edb6bb47af5f5c915529adf4"
+hash = "40a40e76f375a3115baf0845312e650d0b87d246d5ebb04e2c9f8afabe7d4d24"
 metafile = true
 
 [[files]]
 file = "mods/letitrain.pw.toml"
-hash = "316ac193eb5940553103d4cf1af966a4a5cc68a3836366baed008ae0b9ee5fba"
+hash = "d2e6ed90caa92bc4705684358bf827f28e2139f3b56eb90db04529d3d68c40e6"
 metafile = true
 
 [[files]]
@@ -397,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
+hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
@@ -472,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/passive-health-regen.pw.toml"
-hash = "b4ac694dac484508762f75fafd5eceb95f683a91ff7153d41c6b0f419b3a5e21"
+hash = "8f2e9081d1829fccb7fa9302e1ccd77796aa39a32d4eb8a683f58924252d794a"
 metafile = true
 
 [[files]]
@@ -537,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "87708c5cf041f2c7eede5dc1a5ee0dd517a13c0c7e8c40c359669a5ffabef7db"
+hash = "9c0d37bfbfdda77af1946da1d80aa48e7dfea9611c43d5c81c70676b1d854af6"
 metafile = true
 
 [[files]]
@@ -562,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
-hash = "73cda0fbb91d9f76728a9fa7d9630e7f6417b1958028d924dc7013dee4597435"
+hash = "3156744d34ca58861a58b6e82574ada7285db5fe54d024db27f08336491fda1b"
 metafile = true
 
 [[files]]
@@ -577,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "91c70c2916e2d98f182519e0c51de5c1004db09b27c106d0f52908393a44ed28"
+hash = "3f227d1a8d6fd5ec64280173965653a4c426bbc2d45054c7ad462fa7bf729554"
 metafile = true
 
 [[files]]
@@ -612,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparsestructures.pw.toml"
-hash = "8c71edbbb86e5d3e1c14ea6629382539d44e75b1061725df9c3abceb889a8591"
+hash = "993b4e4970e1a5ef2fe7c6712212f57a84dcf8b31d4b6863540b6395c4f9ce09"
 metafile = true
 
 [[files]]

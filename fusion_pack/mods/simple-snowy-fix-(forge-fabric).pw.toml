@@ -1,6 +1,6 @@
 name = "Simple Snowy Fix (Forge / Fabric)"
 filename = "simple_snowy_fix-1.21.1-1.21.11-2.2.1-neoforge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3WP3HZRG/versions/UlwusT7e/simple_snowy_fix-1.21.1-1.21.11-2.2.1-neoforge.jar"

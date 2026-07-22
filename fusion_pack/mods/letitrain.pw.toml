@@ -1,6 +1,6 @@
 name = "LetItRain"
 filename = "letitrain-2.3.0-21-dev.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/eQOTUNkk/versions/qXvTlNF3/letitrain-2.3.0-21-dev.jar"
