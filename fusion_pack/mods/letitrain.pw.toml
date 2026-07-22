@@ -1,0 +1,13 @@
+name = "LetItRain"
+filename = "letitrain-2.3.0-21-dev.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/eQOTUNkk/versions/qXvTlNF3/letitrain-2.3.0-21-dev.jar"
+hash-format = "sha512"
+hash = "b58fe115055d789a5e9c74dbdf8deb4f2caac34df10308101d099ca8dbdf5bcb8f3fb39b2635d1a4df018d9dacc77bed06f90cd4f49dc292680476ddf4ac74c3"
+
+[update]
+[update.modrinth]
+mod-id = "eQOTUNkk"
+version = "qXvTlNF3"

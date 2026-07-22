@@ -1,0 +1,13 @@
+name = "Deepslate Tweaks"
+filename = "deepslatetweaks_neoforge-1.21.1-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jc0FvX5i/versions/3hsXUs1J/deepslatetweaks_neoforge-1.21.1-2.1.0.jar"
+hash-format = "sha512"
+hash = "fe717fea026e3fda81ecc9520cc2db15520327d3449dd7318432f7fb0e7acf8900b712acc26571b4fdb92a4aebc6c7646be308d2a45b4dcd7063727f6f7770d8"
+
+[update]
+[update.modrinth]
+mod-id = "Jc0FvX5i"
+version = "3hsXUs1J"

@@ -1,0 +1,13 @@
+name = "The Silver Age"
+filename = "thesilverage-neoforge-1.21.1-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LEHsZZ4j/versions/i3hrXsgt/thesilverage-neoforge-1.21.1-1.3.1.jar"
+hash-format = "sha512"
+hash = "efc4ab2a1249bfd1cbcbb4ea595efc6735da024e0d999c01bedf66e9558b120a2da38df74a64cde4a766b0f4f26f3fc90f76f2f798a636d0855bcd29bd729461"
+
+[update]
+[update.modrinth]
+mod-id = "LEHsZZ4j"
+version = "i3hrXsgt"
