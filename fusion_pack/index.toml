@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/neocontinuity.pw.toml"
-hash = "8f35cebc29e664e9a3d840f6ce716e266470813c72b8ad2f2b64521e49739e2e"
+hash = "e32288bff681e5ede62a129111c8a4aeb6bfcda459758151e81f835135ed7fe2"
 metafile = true
 
 [[files]]

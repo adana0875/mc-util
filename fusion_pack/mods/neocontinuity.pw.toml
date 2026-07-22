@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7178602
-project-id = 1377279
+file-id = "7178602"
+project-id = "1377279"
