@@ -1,0 +1,8 @@
+name = "fusionblocks"
+filename = "fusionblock-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/adana0875/mc-util/releases/download/0.1_b/fusionblock-neoforge-1.0.0.jar"
+hash-format = "sha256"
+hash = "ed020448dc62b94a463313cf2fd9e79c71f6e2b8b35ad37fdb1a7349e6b74949"

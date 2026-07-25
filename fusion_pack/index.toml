@@ -296,8 +296,23 @@ hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
+file = "mods/fusionblocks.pw.toml"
+hash = "ef5468861136d9a8c7d5b21ffdac802e05da1a3f816cd820bbc3530914d9de35"
+metafile = true
+
+[[files]]
+file = "mods/fusionenchanting.pw.toml"
+hash = "24fdd5a81322222b73ade5574331be5f5ebbe4a020249e3607a5dd869789f97e"
+metafile = true
+
+[[files]]
 file = "mods/fusionslabs.pw.toml"
-hash = "f27c3df8e8eddc10a8baea3dc02539a1c36c858334fbf6ef155c684e1f03246b"
+hash = "943561f7e959fb75a3760125bc14d40b79560800b4a5a2656119f70ff6a0ed94"
+metafile = true
+
+[[files]]
+file = "mods/fusiontoolmod.pw.toml"
+hash = "c2bbaee8f96333fc07a9c299a4e4ac39d6919f481d1a3c20d435aaa74fb31e23"
 metafile = true
 
 [[files]]
