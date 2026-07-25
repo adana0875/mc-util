@@ -1,0 +1,49 @@
+{
+
+  // Master toggle for the passive regen HUD widget.
+  "showRegenHud": true,
+  "showTimer": false,
+  "hudOpacity": 1.0,
+  "hudFadeEnabled": true,
+  "hudFadeInMs": 500,
+  "hudFadeOutMs": 400,
+  "hudColor": "FF69B4",
+  "hudBlockedColor": "FF9F1A",
+  "hudScale": 1.0,
+  // Presets: RIGHT_OF_HEALTH, LEFT_OF_HEALTH, ABOVE_HUNGER, BELOW_HUNGER, TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, CUSTOM
+  "hudPosition": "LEFT_OF_HEALTH",
+  "hudOffsetX": 0,
+  "hudOffsetY": 0,
+  // Anchors for CUSTOM: CENTER, TOP, BOTTOM, LEFT, RIGHT, TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
+  "hudCustomAnchor": "TOP_LEFT",
+  // Show conditions: injured, out_of_combat, always
+  "showCondition": "injured",
+  "hideAtFullHealth": true,
+  // If true: heartbeat thump on heal + organic multi-sine glow. false = simpler flat animation.
+  "hudRichAnimations": true,
+
+  // Freezing state (1.17+). Triggers when frozen progress crosses threshold.
+  "hudFreezingEnabled": true,
+  "hudFreezingTintEnabled": true,
+  "hudFreezingFrostEnabled": true,
+  "hudFreezingShakeEnabled": true,
+  // 0.0 = shows at first frost tick, 1.0 = only when fully frozen and taking damage
+  "hudFreezingThresholdPercent": 0.4,
+  "hudFreezingColor": "88DDFF",
+  "hudFreezingShakeIntensity": 0.2,
+  "hudFreezingShakeSpeedHz": 2.25,
+  "hudFreezingSnowEnabled": true,
+  "hudFreezingSnowCount": 4,
+
+  // Shiny gold HUD effect while the food-saturation bonus is active on the server.
+  "hudSaturationSheenEnabled": true,
+  "hudSaturationSparkleEnabled": true,
+  "hudPoisonEffectEnabled": true,
+  "hudWitherEffectEnabled": true,
+
+  // Cosmetic feedback only. Leave arrays empty to disable.
+  // Example particles: [{ "id": "minecraft:heart", "count": 3, "spread": 0.3 }]
+  "particles": [],
+  // Example sounds: [{ "id": "minecraft:entity.player.levelup", "volume": 0.25, "pitch": 1.9 }]
+  "sounds": []
+}

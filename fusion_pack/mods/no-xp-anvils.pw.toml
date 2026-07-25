@@ -1,0 +1,13 @@
+name = "No XP Anvils"
+filename = "no_xp_anvils-1.2.2-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Sy2SQOg/versions/1YQzLnNV/no_xp_anvils-1.2.2-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "9f19d9d9a7a7873bb63b7867fa7b2802730cbc38fa36652b30a84358cdcc4746f856e796d2c21c37db8414ac033a5c56f055a7ebcae5dedcb0ae44b56c163610"
+
+[update]
+[update.modrinth]
+mod-id = "8Sy2SQOg"
+version = "1YQzLnNV"

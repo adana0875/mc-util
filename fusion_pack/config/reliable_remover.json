@@ -1,0 +1,27 @@
+{
+  "showAttackMessage": true,
+  "showHandSwingMessage": true,
+  "showRemovalMessage": true,
+  "removeItemsFromCreativeTabs": true,
+  "removeItemsFromEmi": true,
+  "removeItemsFromInventories": true,
+  "removeItemsOnInventoryOpen": true,
+  "removeDroppedItems": true,
+  "removeItemsFromLootChests": true,
+  "removeItemsFromStorage": true,
+  "removeItemsFromInfoTabs": true,
+  "removeItemsFromTrades": true,
+  "removeMobEquipment": true,
+  "removeCnmChildren": true,
+  "enableEmiRemoval": true,
+  "showEmiToast": true,
+  "showEmiChatMessages": true,
+  "reloadAfterRemoval": false,
+  "blacklistedItems": [
+    "nomansland:thatch",
+    "nomansland:sconce_torch",
+    "nomansland:sconce_soul_torch",
+    "nomansland:thatch_stairs",
+    "nomansland:thatch_slab"
+  ]
+}

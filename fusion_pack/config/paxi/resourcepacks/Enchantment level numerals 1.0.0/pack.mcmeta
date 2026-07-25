@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 4,
+        "supported_formats": [4,999],
+        "description": "adds name for all enchantment levels up to 255"
+    }
+}
