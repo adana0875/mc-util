@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "47991e307a12f21e2521dd6782f7c9bd052ca89a55b0d64628657abe49d2fb2b"
 
 [[files]]
+file = "config/almostunified/unification/materials.json"
+hash = "a393ec7daaefd8f9b008d495bd5681f9a521a8b37db988980ce4510a162dfae5"
+
+[[files]]
 file = "config/backpacked.augments.toml"
 hash = "02a0fadf11aa58e9f43f54987e312c213bdc36eb78f907c53b0d76761341b341"
 
