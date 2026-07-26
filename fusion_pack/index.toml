@@ -61,22 +61,6 @@ file = "config/horseman-server.toml"
 hash = "89c0d81538d309ccb526d97f7472f11d04eabbf9bcd89d90d82ff45fdeaa578b"
 
 [[files]]
-file = "config/inventoryprofilesnext/192.168.1.183/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/New World/prev-villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/New World/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "31f39e9b81b98e02ddff10b52378b8e911c0bde40649088f077b027ad616ca27"
 
@@ -111,6 +95,10 @@ hash = "eac0b81d3d49539afd8f97d16c7f22ffa8b541004939fc0b5d0682c4099b8abd"
 [[files]]
 file = "config/passiveregen-common.toml"
 hash = "2b6f1b5d73a3f61af1102432e64c848cb5b7b4173af878cb04bccc63a1d03ef9"
+
+[[files]]
+file = "config/paxi/datapacks/EasySacksCompat_Adjusted.zip"
+hash = "9cd11e7fb9cb5ad87a03ec455347a3e5aa1fcbcd92d93f9a0a3e8ad1cb002fa7"
 
 [[files]]
 file = "config/paxi/datapacks/antiEndermanGrief.zip"
@@ -151,6 +139,10 @@ hash = "f9fec0cf7ce0eff798f655cd03f60651daa7d8bd8bf6edc0cfce6788a7571a48"
 [[files]]
 file = "config/paxi/datapacks/unlockAllRecipes.zip"
 hash = "832d5fb8145f6bc92c6bf1c1485adf85d556013bed8e8946463403581a4e9c80"
+
+[[files]]
+file = "config/paxi/datapacks/wandering trader announcements v1.0.8 (MC 1.21-1.21.11).zip"
+hash = "39c21a6e179173f7e66af1614f41f65f04264f8615d7d60fc4ac9124c47a38e3"
 
 [[files]]
 file = "config/paxi/resourcepacks/Clearer Slot Highlight.zip"
@@ -745,6 +737,10 @@ file = "config/thesilverage-common.toml"
 hash = "4a48741f7acbd1cb9935575b6bc4f907b5f1b801e1b3e0bd505c7d3d9a05baf8"
 
 [[files]]
+file = "config/tiny_takeover_backport.json"
+hash = "a3eca80d23a7e1f10ab241c5410e88ebb47c459593c2f448a7bb9a8f5d4364e7"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
@@ -1095,6 +1091,11 @@ hash = "4ce9a1521d439d393f79988859c97157a8ba4b5fcb38f4043adde2da48761560"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "6402d23ba23b18fc4c3531ba03f8d044bea2f4521e1504216efc73a4d08461ce"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
 metafile = true
@@ -1187,11 +1188,6 @@ metafile = true
 [[files]]
 file = "mods/mafglib.pw.toml"
 hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
-metafile = true
-
-[[files]]
-file = "mods/minecraft-cursor.pw.toml"
-hash = "e33eecdf643bb0f6d9401c4b7e8fa84ec5f8c38eefc815256c488fee643b1b34"
 metafile = true
 
 [[files]]
@@ -1332,6 +1328,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
 metafile = true
 
 [[files]]
