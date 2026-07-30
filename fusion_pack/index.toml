@@ -50,7 +50,7 @@ hash = "bff536ddcb2add137f6fdab38e1b263c9c923849c673422a936b96bc66f4b09a"
 
 [[files]]
 file = "config/fusiontoolmodifications.json"
-hash = "86e511e50fe04cc8edac25c139391f9628ba32aa7aa20ccde981f2ede400e0bd"
+hash = "67e03a634219edd62e2e84649233c0d12a154d6d048cdcf031110a4453af5773"
 
 [[files]]
 file = "config/horseman-client.toml"
@@ -63,6 +63,10 @@ hash = "416edc95699d475b533e25ccd80d0a3e7587a0e30c7b8ca2b6ba1111afe83b8d"
 [[files]]
 file = "config/horseman-server.toml"
 hash = "89c0d81538d309ccb526d97f7472f11d04eabbf9bcd89d90d82ff45fdeaa578b"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "80f6c77c9f7e72bffec7dbc58668e12d60a72d73d546ef5e621373f6debbac8d"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -78,7 +82,7 @@ hash = "800b25a803f416531dfec28d27bdacd700bbdfa5e0e06161a334f5c0017f5904"
 
 [[files]]
 file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "35fcf8ec8d0af5a05784b84ab1e81545d28c8f7797df5b7c753377868d92b092"
+hash = "96cbe88792d294bad0a5895b270e4ff4657ced25602c25a928ce72656861b604"
 
 [[files]]
 file = "config/packed_packs/config.json"
@@ -103,6 +107,34 @@ hash = "2b6f1b5d73a3f61af1102432e64c848cb5b7b4173af878cb04bccc63a1d03ef9"
 [[files]]
 file = "config/paxi/datapacks/EasySacksCompat_Adjusted.zip"
 hash = "9cd11e7fb9cb5ad87a03ec455347a3e5aa1fcbcd92d93f9a0a3e8ad1cb002fa7"
+
+[[files]]
+file = "config/paxi/datapacks/FusionToolRecipes/data/fusion_tool/recipe/bronze_dolabra.json"
+hash = "1753be628163b242e26ae972c17cf8cb11473277c2487f8eaa13cc1806e6a7ce"
+
+[[files]]
+file = "config/paxi/datapacks/FusionToolRecipes/data/fusion_tool/recipe/bronze_mattock.json"
+hash = "fa439a524fced226ad213c4d4c9b883de53da2153ca8bbb8b625c3478fe3aaac"
+
+[[files]]
+file = "config/paxi/datapacks/FusionToolRecipes/data/fusion_tool/recipe/silver_dolabra.json"
+hash = "d6e8b8581a50aae8a405b6bf54bf35617ddf82593452cc925b7299ffda97a966"
+
+[[files]]
+file = "config/paxi/datapacks/FusionToolRecipes/data/fusion_tool/recipe/silver_mattock.json"
+hash = "8be857d8c24ec17088de414a7775a98cefe7928d345573e19b3ee42774b1d435"
+
+[[files]]
+file = "config/paxi/datapacks/FusionToolRecipes/data/fusion_tool/recipe/steel_dolabra.json"
+hash = "dcdddaec5fd89aff2239b1ac903b23e2332977c2eba2e82c8c9c172547d279a8"
+
+[[files]]
+file = "config/paxi/datapacks/FusionToolRecipes/data/fusion_tool/recipe/steel_mattock.json"
+hash = "cd752f5375c647907528584c55767ae53afaa4b75cc0a7a1eb49b38d7a6ce183"
+
+[[files]]
+file = "config/paxi/datapacks/FusionToolRecipes/pack.mcmeta"
+hash = "0723ce8c26e913afbda126ed96da1e3f36ef1025d8d222ba65f352e88fc854fd"
 
 [[files]]
 file = "config/paxi/datapacks/antiEndermanGrief.zip"
@@ -880,11 +912,6 @@ hash = "63f417eca4f251f85a5ae512394cbb9fa88dfdfb2b934b94637ba8b7dac1a831"
 metafile = true
 
 [[files]]
-file = "mods/chunk-activity-tracker.pw.toml"
-hash = "d71977ecbd4b6e5d59f439a09e9a852ed8a91b922927e44c45114f59ef5cae1a"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
@@ -942,11 +969,6 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "4a2d71be3b840f675290ca200290cacfd968e37da9cb27b83476d002d8d897c3"
-metafile = true
-
-[[files]]
-file = "mods/does-it-tick.pw.toml"
-hash = "782bd2177b75eb643ed9456887d2f141d7353ac6d9704ba36433aa12a62d8144"
 metafile = true
 
 [[files]]
@@ -1055,6 +1077,11 @@ hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
+file = "mods/fusion-tool.pw.toml"
+hash = "0f362e045dc5c45c631cf842c8d3035d57486db2e35ac34888737e2ce0167c41"
+metafile = true
+
+[[files]]
 file = "mods/fusionblocks.pw.toml"
 hash = "ef5468861136d9a8c7d5b21ffdac802e05da1a3f816cd820bbc3530914d9de35"
 metafile = true
@@ -1111,7 +1138,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-control.pw.toml"
-hash = "6402d23ba23b18fc4c3531ba03f8d044bea2f4521e1504216efc73a4d08461ce"
+hash = "8e90c889394fe3e69d75a8aa8466b74af5ff8a26b755abf90b668dcc225b23d5"
 metafile = true
 
 [[files]]
@@ -1400,6 +1427,11 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "993b4e4970e1a5ef2fe7c6712212f57a84dcf8b31d4b6863540b6395c4f9ce09"
 metafile = true
@@ -1442,11 +1474,6 @@ metafile = true
 [[files]]
 file = "mods/tiny-takeover-backport.pw.toml"
 hash = "644fbbc438da1de9ece20461ffcb9d4586d08150790ffc6e3c0b7fd9bcf2ee38"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]

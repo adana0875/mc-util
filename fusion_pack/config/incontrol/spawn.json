@@ -1,0 +1,16 @@
+[
+  {
+    "minheight": 60,
+    "mob":"minecraft:creeper",
+    "result": "deny"
+  },
+  {
+    "maxheight": 60,
+    "passive":"true",
+    "result":"deny"
+  },
+  {
+    "mob":"minecraft:bat",
+    "result":"default"
+  }
+]
