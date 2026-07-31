@@ -81,6 +81,10 @@ file = "config/mixed_litter-startup.toml"
 hash = "800b25a803f416531dfec28d27bdacd700bbdfa5e0e06161a334f5c0017f5904"
 
 [[files]]
+file = "config/nostalgic_tweaks/nostalgic_tweaks-server.json"
+hash = "80e767f7529ca985233e7900f8c907ebdc86c2b6f51f300fa55879a37e23e304"
+
+[[files]]
 file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
 hash = "96cbe88792d294bad0a5895b270e4ff4657ced25602c25a928ce72656861b604"
 
@@ -1123,6 +1127,11 @@ hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
 metafile = true
 
 [[files]]
+file = "mods/immersive-hotbar.pw.toml"
+hash = "a21fa227dbbeae06cfbec6de71b885a5050ade4f648ec2f608145540a74e9f72"
+metafile = true
+
+[[files]]
 file = "mods/immersive-overlays.pw.toml"
 hash = "4ce9a1521d439d393f79988859c97157a8ba4b5fcb38f4043adde2da48761560"
 metafile = true
@@ -1313,6 +1322,11 @@ hash = "67ea71a3edcd88bb031720932f519151923b8dbb94633ddd8fb0f9585e8d9e7a"
 metafile = true
 
 [[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "53981ef920b10c51bae6dc5360478e1d83782c154c2182121545619d157d609d"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
@@ -1368,8 +1382,18 @@ hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
 metafile = true
 
 [[files]]
+file = "mods/shine.pw.toml"
+hash = "a798b1ddcf6ce6699abdce3c48feb62453816cfeb0d01b1b75fdfcdcf44406da"
+metafile = true
+
+[[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
 hash = "3156744d34ca58861a58b6e82574ada7285db5fe54d024db27f08336491fda1b"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "c29444a15935e622aaf6a8849cbed78095c1f9328315383a382859b3872d97ee"
 metafile = true
 
 [[files]]
@@ -1448,6 +1472,11 @@ hash = "cf25fcc222176d56fe930ae978acd7c26792b4ff504ab5d0563a9a354d9c8d06"
 metafile = true
 
 [[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "922febf9d28f1db3be54a689b99180eaa62f10e92e1df6938e8d5743b801f294"
+metafile = true
+
+[[files]]
 file = "mods/tiny-takeover-backport.pw.toml"
 hash = "644fbbc438da1de9ece20461ffcb9d4586d08150790ffc6e3c0b7fd9bcf2ee38"
 metafile = true
@@ -1495,4 +1524,29 @@ metafile = true
 [[files]]
 file = "mods/zfastnoise.pw.toml"
 hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/brush-and-juice.pw.toml"
+hash = "dfacfbf261fcb669d42d60b66116b05d383676231b320f98e1745afdc0034b4b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fenns-chests.pw.toml"
+hash = "668c1e6a4cb74641a65f5262fbb71fa33b2e27ade600df1949c011cf8c5b8da3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gui-revision-compats.pw.toml"
+hash = "95ddb5e729210376d101568e767647e3c47b24aa83388d9b5cdee4a1b8eae41a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gui-revision.pw.toml"
+hash = "037309144037403f158e62bc9d9dd5e364a2446e602be5fce611a892c99a9332"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mossys-better-dirt.pw.toml"
+hash = "eda4bcb84876f4ba90c4e66f528f3811f79385153c597c96fe878c55d40b7911"
 metafile = true
