@@ -729,6 +729,14 @@ file = "config/resourcify.json"
 hash = "ade1b4a28332a849a0b3dfe006db3d1ef22810301999316fd58a34b130968fb5"
 
 [[files]]
+file = "config/servercore/config.yml"
+hash = "850668fcec7134eb23214b5468512f8582211e99910e20aa39f69a59e8c238de"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "cec7ccadc81519d768e680159581054aff356489e05c03ab4a67c9060c9575a1"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "f614f1e1ebf5e598068f456ec333e6417b9836ffbc94e386aa0a434319734da9"
 
