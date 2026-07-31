@@ -1,0 +1,8 @@
+name = "fusionslabs"
+filename = "fusion_slabs-forge-1.21.1-1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/adana0875/mc-util/releases/download/0.1_b/fusion_slabs-forge-1.21.1-1.2.jar"
+hash-format = "sha256"
+hash = "3ad319d7dc1a03adb9c882dbfa2037ff7a216fe9ccff34f013d1366e7fc59a60"

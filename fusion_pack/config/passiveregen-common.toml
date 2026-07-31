@@ -1,0 +1,219 @@
+[general]
+	enabled = true
+	# Default: 100
+	# Range: 0 ~ 12000
+	damageCooldownTicks = 100
+	# Default: 50
+	# Range: 0 ~ 100
+	minimumHungerPercent = 50
+	# Default: 0.0
+	# Range: 0.0 ~ 20.0
+	minimumSaturationLevel = 0.0
+	# Default: 20
+	# Range: 1 ~ 200
+	updateIntervalTicks = 20
+	# Default: 100
+	# Range: 1 ~ 12000
+	baseHealIntervalTicks = 100
+	rampUpEnabled = false
+	# Default: 50
+	# Range: 1 ~ 12000
+	fullStrengthHealIntervalTicks = 50
+	# Default: 600
+	# Range: 1 ~ 12000
+	rampFullStrengthTicks = 600
+	# Default: 0.5
+	# Range: 0.01 ~ 100.0
+	healAmountPerTrigger = 0.5
+
+[limits]
+	scaleWithMaxHealth = false
+	# Default: 0.5
+	# Range: 0.1 ~ 4.0
+	maxHealthScalingExponent = 0.5
+	# Default: 2.0
+	# Range: 1.0 ~ 100.0
+	maxHealthScalingCap = 2.0
+	# Default: 100
+	# Range: 0 ~ 100
+	maxRegenHealthPercent = 100
+	blockedEffects = []
+	dimensionBlacklist = []
+	# Default: -1
+	# Range: -1 ~ 12000
+	pvpDamageCooldownTicks = -1
+	disableNaturalRegen = false
+	regenWhileSprinting = true
+
+[hungerBonus]
+	hungerBonusEnabled = false
+	# Default: 75
+	# Range: 0 ~ 100
+	hungerBonusThresholdPercent = 75
+	# Default: 1.5
+	# Range: 1.0 ~ 100.0
+	hungerBonusHealMultiplier = 1.5
+	# Default: 1.5
+	# Range: 1.0 ~ 100.0
+	hungerBonusSpeedMultiplier = 1.5
+	# Default: 25
+	# Range: 0 ~ 100
+	hungerBonusCooldownReduction = 25
+	hungerPenaltyEnabled = false
+	# Default: 0.25
+	# Range: 0.01 ~ 1.0
+	hungerPenaltySpeedMultiplier = 0.25
+	# Default: 1.0
+	# Range: 0.01 ~ 1.0
+	hungerPenaltyHealMultiplier = 1.0
+	hungerFullBonusEnabled = false
+	# Default: 2.0
+	# Range: 1.0 ~ 100.0
+	hungerFullBonusHealMultiplier = 2.0
+	# Default: 2.0
+	# Range: 1.0 ~ 100.0
+	hungerFullBonusSpeedMultiplier = 2.0
+
+[saturationBonus]
+	saturationBonusEnabled = true
+	# Default: 10.0
+	# Range: 0.0 ~ 20.0
+	saturationBonusThreshold = 10.0
+	# Default: 10.0
+	# Range: 0.0 ~ 20.0
+	saturationBonusDeactivateThreshold = 10.0
+	# Default: 2.0
+	# Range: 1.0 ~ 10.0
+	saturationBonusSpeedMultiplier = 2.0
+	# Default: 2.0
+	# Range: 1.0 ~ 10.0
+	saturationBonusHealMultiplier = 2.0
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	saturationBonusCostPerHp = 1.0
+	# Default: 0.0
+	# Range: 0.0 ~ 1.0
+	saturationBonusIdleDrainPerTick = 0.0
+	# Default: 0.0
+	# Range: 0.0 ~ 20.0
+	saturationBonusMinSaturationFloor = 0.0
+	# Default: 0.25
+	# Range: 0.0 ~ 10.0
+	saturationBonusFlatHealBonus = 0.25
+	saturationBonusScaleByExcess = false
+
+[hungerDrain]
+	hungerDrainEnabled = false
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	hungerDrainSpeedMultiplier = 1.0
+	# Default: 0.6
+	# Range: 0.0 ~ 10.0
+	hungerDrainCostPerHp = 0.6
+	# Default: 0.0
+	# Range: 0.0 ~ 1.0
+	hungerDrainIdleDrainPerTick = 0.0
+	# Default: 0.0
+	# Range: 0.0 ~ 20.0
+	hungerDrainMinFloor = 0.0
+
+[statusEffects]
+	disableHealingDuringPoison = true
+	disableHealingDuringWither = true
+
+[regenOnKill]
+	regenOnKillEnabled = false
+	# Default: 50
+	# Range: 0 ~ 100
+	regenOnKillCooldownReduction = 50
+	regenOnKillHostileOnly = false
+	regenOnKillBlacklist = []
+	regenOnKillComboEnabled = false
+	# Default: 200
+	# Range: 20 ~ 1200
+	regenOnKillComboWindowTicks = 200
+	# Default: 5
+	# Range: 1 ~ 20
+	regenOnKillComboMaxStacks = 5
+	# Default: 10
+	# Range: 0 ~ 100
+	regenOnKillComboReductionPerStack = 10
+
+[bonuses]
+	#Allowed Values: MULTIPLICATIVE, ADDITIVE, STRONGEST_ONLY
+	bonusStackingMode = "MULTIPLICATIVE"
+	crouchBonusEnabled = false
+	# Default: 1.5
+	# Range: 1.0 ~ 10.0
+	crouchSpeedMultiplier = 1.5
+	# Default: 1.0
+	# Range: 1.0 ~ 10.0
+	crouchHealMultiplier = 1.0
+	lightLevelBonusEnabled = false
+	# Default: 0.75
+	# Range: 0.1 ~ 2.0
+	lightLevelMinMultiplier = 0.75
+	# Default: 1.25
+	# Range: 0.1 ~ 2.0
+	lightLevelMaxMultiplier = 1.25
+	dayNightMultiplierEnabled = false
+	# Default: 1.25
+	# Range: 0.1 ~ 3.0
+	dayMultiplier = 1.25
+	# Default: 0.75
+	# Range: 0.1 ~ 3.0
+	nightMultiplier = 0.75
+	difficultyScalingEnabled = false
+	# Default: 2.0
+	# Range: 0.1 ~ 5.0
+	peacefulMultiplier = 2.0
+	# Default: 1.25
+	# Range: 0.1 ~ 5.0
+	easyMultiplier = 1.25
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	normalMultiplier = 1.0
+	# Default: 0.75
+	# Range: 0.1 ~ 5.0
+	hardMultiplier = 0.75
+
+[largeDamagePenalty]
+	largeDamagePenaltyEnabled = false
+	# Default: 50
+	# Range: 1 ~ 100
+	largeDamageThresholdPercent = 50
+	# Default: 1.5
+	# Range: 1.0 ~ 5.0
+	largeDamageCooldownMultiplier = 1.5
+
+[campfire]
+	campfireRegenEnabled = true
+	# Default: 8
+	# Range: 1 ~ 32
+	campfireRadius = 8
+	# Default: 2.0
+	# Range: 1.0 ~ 10.0
+	campfireSpeedMultiplier = 2.0
+	# Default: 1.0
+	# Range: 1.0 ~ 10.0
+	campfireHealMultiplier = 1.0
+	campfireCooldownReductionEnabled = false
+	# Default: 20
+	# Range: 0 ~ 100
+	campfireCooldownReductionPercent = 20
+
+[freezing]
+	freezingPenaltyEnabled = true
+	# Default: 0.0
+	# Range: 0.0 ~ 1.0
+	freezingPenaltyThresholdPercent = 0.0
+	# Default: 0.5
+	# Range: 0.01 ~ 1.0
+	freezingSpeedMultiplier = 0.5
+	# Default: 0.75
+	# Range: 0.01 ~ 1.0
+	freezingHealMultiplier = 0.75
+	# Default: 1.75
+	# Range: 1.0 ~ 10.0
+	freezingCooldownMultiplier = 1.75
+	freezingBlocksRegen = false

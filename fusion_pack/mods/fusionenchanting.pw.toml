@@ -1,0 +1,8 @@
+name = "fusionenchanting"
+filename = "fusion_enchanting-neoforge-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/adana0875/mc-util/releases/download/0.1_b/fusion_enchanting-neoforge-1.0.1.jar"
+hash-format = "sha256"
+hash = "be4abf6a1a1b4a7709075fa9fe3d4d70ec7c315f787a8189a69524095c25d07f"

@@ -1,0 +1,8 @@
+name = "fusion-tool"
+filename = "fusion_tool-forge-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/adana0875/mc-util/releases/download/0.1_b/fusion_tool-forge-1.21.1-1.0.3.jar"
+hash-format = "sha256"
+hash = "1f8c0bb07bdaa2a95b2df271be4b40a0cfc272e28b7c9284907fc4a0edcb4477"

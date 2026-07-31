@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "M": {
+      "item": "thesilverage:silver_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "MMM",
+    " MM",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "fusion_tool:silver_dolabra"
+  }
+}

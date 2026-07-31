@@ -1,0 +1,8 @@
+name = "fusiontoolmod"
+filename = "fusiontoolmod-neoforge-1.21.1-1.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/adana0875/mc-util/releases/download/0.1_b/fusiontoolmod-neoforge-1.21.1-1.4.jar"
+hash-format = "sha256"
+hash = "df2327c6abcdf07436f66a160d3d20e0f51b31bebdbc3453925b4ec0e4edeb99"
