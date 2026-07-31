@@ -1,0 +1,13 @@
+name = "Fenn's Chests"
+filename = "Fenn's Chests.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lwq7K4aS/versions/5H27TRLH/Fenn%27s%20Chests.zip"
+hash-format = "sha512"
+hash = "dffb4d17242c4ba653c608a8b03bbcdf681f073c210a97b8d86b584f365b58671b7caa2cc6cc1d4a9627341be8f7e1a564a72afc5672e21162b7e9bed848c8d6"
+
+[update]
+[update.modrinth]
+mod-id = "Lwq7K4aS"
+version = "5H27TRLH"

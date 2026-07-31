@@ -1,0 +1,13 @@
+name = "GUI Revision Compats"
+filename = "GUI_Revision_Compats.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/STMnY6ly/versions/KUgd3Zz8/GUI_Revision_Compats.zip"
+hash-format = "sha512"
+hash = "6619c2d657e983d19cc46fde34e7ab57d54c07fa33ec402498c71c5645c2998c9611b85560dd211829be4b3971393fc74cffc785c262c2857d41db24bed95901"
+
+[update]
+[update.modrinth]
+mod-id = "STMnY6ly"
+version = "KUgd3Zz8"

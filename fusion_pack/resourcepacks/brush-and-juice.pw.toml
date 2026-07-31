@@ -1,0 +1,13 @@
+name = "Brush & Juice"
+filename = "Brush & Juice.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ulXVKXEC/versions/AkFGPqOx/Brush%20%26%20Juice.zip"
+hash-format = "sha512"
+hash = "b2470e57751200c0d9d6c7b46ad7e3797169ef6e9a01e50cfad237f62f6550c45b4b8d7f294594c3df9d9b3578af4b1529a8e5b73915d1875976c75b3f5131b6"
+
+[update]
+[update.modrinth]
+mod-id = "ulXVKXEC"
+version = "AkFGPqOx"
