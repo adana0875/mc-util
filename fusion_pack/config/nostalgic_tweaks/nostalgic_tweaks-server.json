@@ -120,7 +120,7 @@
     "oldFishingLuring": false,
     "oldFishingCasting": false,
     "instantBonemeal": false,
-    "tilledGrassSeeds": false,
+    "tilledGrassSeeds": true,
     "oldFire": false,
     "infiniteBurn": false,
     "instantAir": true,
