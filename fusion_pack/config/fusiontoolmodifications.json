@@ -1,5 +1,55 @@
 {
-  "toolSpeedMods": [],
+  "toolSpeedMods": [
+    {
+      "item": "fusion_tool:iron_dolabra",
+      "value": 6.0
+    },
+    {
+      "item": "fusion_tool:iron_mattock",
+      "value": 6.0
+    },
+    {
+      "item": "fusion_tool:gold_dolabra",
+      "value": 13.5
+    },
+    {
+      "item": "fusion_tool:gold_mattock",
+      "value": 13.5
+    },
+    {
+      "item": "fusion_tool:diamond_dolabra",
+      "value": 10.5
+    },
+    {
+      "item": "fusion_tool:diamond_mattock",
+      "value": 10.5
+    },
+    {
+      "item": "fusion_tool:bronze_dolabra",
+      "value": 8.0
+    },
+    {
+      "item": "fusion_tool:bronze_mattock",
+      "value": 8.0
+    },
+    {
+      "item": "fusion_tool:silver_dolabra",
+      "value": 12.5
+    },
+    {
+      "item": "fusion_tool:silver_mattock",
+      "value": 12.5
+    },
+    {
+      "item": "fusion_tool:steel_dolabra",
+      "value": 9.0
+    },
+    {
+      "item": "fusion_tool:steel_mattock",
+      "value": 9.0
+    }
+
+  ],
   "materialSpeedMods": [
     {
       "material": "stone",

@@ -50,7 +50,7 @@ hash = "bff536ddcb2add137f6fdab38e1b263c9c923849c673422a936b96bc66f4b09a"
 
 [[files]]
 file = "config/fusiontoolmodifications.json"
-hash = "67e03a634219edd62e2e84649233c0d12a154d6d048cdcf031110a4453af5773"
+hash = "2ea0f78bf1c264a89fdb57c6e54ef0c6057d5cd18abdcd3076379485760c46db"
 
 [[files]]
 file = "config/horseman-client.toml"
@@ -725,10 +725,6 @@ file = "config/resourcify.json"
 hash = "ade1b4a28332a849a0b3dfe006db3d1ef22810301999316fd58a34b130968fb5"
 
 [[files]]
-file = "config/smoothswapping.json"
-hash = "7e038ef561ded14a50ea8c9226079a0e030c20aea05c5d98e7a7cf2c0d1fc64d"
-
-[[files]]
 file = "config/sodium-extra-options.json"
 hash = "f614f1e1ebf5e598068f456ec333e6417b9836ffbc94e386aa0a434319734da9"
 
@@ -1078,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-tool.pw.toml"
-hash = "0f362e045dc5c45c631cf842c8d3035d57486db2e35ac34888737e2ce0167c41"
+hash = "29bcda904b3938d8e66788ae85a9e0f6f511c6e1ba43d2f42f77a3a250e66b96"
 metafile = true
 
 [[files]]
@@ -1124,11 +1120,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
-metafile = true
-
-[[files]]
-file = "mods/immersive-hotbar.pw.toml"
-hash = "a21fa227dbbeae06cfbec6de71b885a5050ade4f648ec2f608145540a74e9f72"
 metafile = true
 
 [[files]]
@@ -1322,11 +1313,6 @@ hash = "67ea71a3edcd88bb031720932f519151923b8dbb94633ddd8fb0f9585e8d9e7a"
 metafile = true
 
 [[files]]
-file = "mods/punchy-fpa.pw.toml"
-hash = "53981ef920b10c51bae6dc5360478e1d83782c154c2182121545619d157d609d"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
@@ -1384,11 +1370,6 @@ metafile = true
 [[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
 hash = "3156744d34ca58861a58b6e82574ada7285db5fe54d024db27f08336491fda1b"
-metafile = true
-
-[[files]]
-file = "mods/smooth-swapping.pw.toml"
-hash = "c29444a15935e622aaf6a8849cbed78095c1f9328315383a382859b3872d97ee"
 metafile = true
 
 [[files]]
@@ -1464,11 +1445,6 @@ metafile = true
 [[files]]
 file = "mods/the-silver-age.pw.toml"
 hash = "cf25fcc222176d56fe930ae978acd7c26792b4ff504ab5d0563a9a354d9c8d06"
-metafile = true
-
-[[files]]
-file = "mods/tiny-item-animations.pw.toml"
-hash = "922febf9d28f1db3be54a689b99180eaa62f10e92e1df6938e8d5743b801f294"
 metafile = true
 
 [[files]]
