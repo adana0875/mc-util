@@ -1,0 +1,26 @@
+{
+  "locked": false,
+  "name": "Default",
+  "overrides": {},
+  "packIds": [
+    "file/GUIRevision_2.2.0.zip",
+    "file/GUI_Revision_Compats.zip",
+    "file/§eTorches§8-§eReimagined§0_§8[v1.8]§0.zip",
+    "file/Num1CobbleHater.zip",
+    "file/Mossy\u0027s_Better_Dirt_1.0.zip",
+    "file/Fenn\u0027s Chests.zip",
+    "file/hephaestus_1.3.1.zip",
+    "file/Brush \u0026 Juice.zip",
+    "file/HyperPunchy-v2.5+.zip",
+    "file/§5Untitled §6Punchies §fv1.1.zip",
+    "VanillaTweaks.zip",
+    "FancyLlamaDecor.zip",
+    "Enchantment level numerals 1.0.0",
+    "Clearer Slot Highlight.zip",
+    "moonlight:merged_pack",
+    "mod_resources",
+    "fabric",
+    "vanilla",
+    "mod/punchy:resourcepacks/punchy"
+  ]
+}

@@ -1,0 +1,13 @@
+name = "COBBLESTONE FIXER"
+filename = "Num1CobbleHater.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S9pOzdHk/versions/VzJ9D7Mz/Num1CobbleHater.zip"
+hash-format = "sha512"
+hash = "886da25649670396cc63230d6f5ba495b5f2dfa6743a2d7edee39296c9eec64976efdc04402f304b1664d722ec1ffc47aa2dd8b03754141ff2a44bfd4edadf8b"
+
+[update]
+[update.modrinth]
+mod-id = "S9pOzdHk"
+version = "VzJ9D7Mz"

@@ -1,0 +1,13 @@
+name = "Hephaestus - Shinier Tools"
+filename = "hephaestus_1.3.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZDobMeRl/versions/ZCuHW9r9/hephaestus_1.3.1.zip"
+hash-format = "sha512"
+hash = "048c7e3c519098c38f2f14abe671f32e3c36ad8ddc32d07fbbd7944f874536a29d783c56042d759c77ec73436e0f362f63237738c94e81b77e1cbc782d86098e"
+
+[update]
+[update.modrinth]
+mod-id = "ZDobMeRl"
+version = "ZCuHW9r9"

@@ -86,11 +86,11 @@ hash = "77845c60e080b5debc3c4728e6334fc0277cc4fa0da48fc0c3492441e22e3e3f"
 
 [[files]]
 file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "6d03cb828e0083def7e11292caaaf813f7620ae7cfee53b6afe10485623d9d3e"
+hash = "673deb69510e98509ccf99cb632ac298d9d07ecda561af48d7eeebf87a595e3b"
 
 [[files]]
 file = "config/packed_packs/config.json"
-hash = "6e56101aa0154b1ca0ae9339ee19638c10c5251cce72f96cc605f468b2e69e18"
+hash = "77240b980d93f6a799c65c13c28ab941f58ddbc6623f28f96d58b85875343ce3"
 
 [[files]]
 file = "config/packed_packs/config.meta.json"
@@ -99,6 +99,10 @@ hash = "bf69102f3f5c232ae8fc3bcbfc7211e2c7fea3608e34d4f589bf50f85f1bb868"
 [[files]]
 file = "config/packed_packs/preferences.properties"
 hash = "485eb9b4dec96a8b59d4d62a8396e8401274135de78108a9dceedfaacb8fc7b4"
+
+[[files]]
+file = "config/packed_packs/profiles/resourcepacks/Default.profile.json"
+hash = "eefdff8d4acd7e3910d5e1b9500ad38eed13f65fc439e16e6a93785153d1c393"
 
 [[files]]
 file = "config/passive-health-regen-hud.json"
@@ -209,12 +213,12 @@ file = "config/resourcify.json"
 hash = "ade1b4a28332a849a0b3dfe006db3d1ef22810301999316fd58a34b130968fb5"
 
 [[files]]
-file = "config/servercore/config.yml"
-hash = "850668fcec7134eb23214b5468512f8582211e99910e20aa39f69a59e8c238de"
+file = "config/shine.json"
+hash = "57dbbb1f60a1d3c31de9cbfed03090f4c86e2138e256de0cd8fc4c6ef6527df7"
 
 [[files]]
-file = "config/servercore/optimizations.yml"
-hash = "cec7ccadc81519d768e680159581054aff356489e05c03ab4a67c9060c9575a1"
+file = "config/smoothswapping.json"
+hash = "a395b04f76221932c39af540bc44ed73130d45036393dec659210d67c2a304e9"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -725,6 +729,11 @@ hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-cursor.pw.toml"
+hash = "e33eecdf643bb0f6d9401c4b7e8fa84ec5f8c38eefc815256c488fee643b1b34"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
@@ -1020,6 +1029,11 @@ hash = "dfacfbf261fcb669d42d60b66116b05d383676231b320f98e1745afdc0034b4b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cobblestone-fixer.pw.toml"
+hash = "1401c93a25e91159aa0fbb13aa5fb22e11a483be94b8c95716521443d7eec4b7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fenns-chests.pw.toml"
 hash = "668c1e6a4cb74641a65f5262fbb71fa33b2e27ade600df1949c011cf8c5b8da3"
 metafile = true
@@ -1035,6 +1049,26 @@ hash = "037309144037403f158e62bc9d9dd5e364a2446e602be5fce611a892c99a9332"
 metafile = true
 
 [[files]]
+file = "resourcepacks/hephaestus-shinier-tools.pw.toml"
+hash = "6bd4f936a50a25360648bf203c90889a4eb7a7e69229380efce52d510e39db08"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hyper-punchy.pw.toml"
+hash = "c1a500647c961f03e2e7b52364e1deefc860f56a6fe340355a04d7b04d05e111"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mossys-better-dirt.pw.toml"
 hash = "eda4bcb84876f4ba90c4e66f528f3811f79385153c597c96fe878c55d40b7911"
+metafile = true
+
+[[files]]
+file = "resourcepacks/torches-reimagined.pw.toml"
+hash = "f5708ca47dbd5693b0df54f34a18fe684e52d000fec76f85899a6d9d3da3f372"
+metafile = true
+
+[[files]]
+file = "resourcepacks/untitled-punchies.pw.toml"
+hash = "75afa8eeb482b9aea3aa3119c2e90598d22df196c8160517072f80ab659ef30a"
 metafile = true
