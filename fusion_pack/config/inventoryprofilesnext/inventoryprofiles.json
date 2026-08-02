@@ -14,9 +14,6 @@
         }
     },
     "GuiSettings": {
-        "inventory_overlay_buttons_visible": {
-            "value": false
-        },
         "enable_inventory_editor_button": {
             "value": false
         },
@@ -26,9 +23,7 @@
         "enable_profiles_ui": {
             "value": false
         },
-        "enable_inventory_buttons": {
-            "value": false
-        },
+        "show_buttons_both_sides": true,
         "show_fast_rename_checkbox": {
             "value": false
         },

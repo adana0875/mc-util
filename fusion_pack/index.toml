@@ -9,6 +9,10 @@ file = "config/almostunified/unification/materials.json"
 hash = "a393ec7daaefd8f9b008d495bd5681f9a521a8b37db988980ce4510a162dfae5"
 
 [[files]]
+file = "config/auto-clicker-fabric.json"
+hash = "394b5c8a61867c2953967ab2f29984d6272d6fc05e9d2d63fe3a466c4f01032f"
+
+[[files]]
 file = "config/backpacked.augments.toml"
 hash = "02a0fadf11aa58e9f43f54987e312c213bdc36eb78f907c53b0d76761341b341"
 
@@ -70,11 +74,15 @@ hash = "80f6c77c9f7e72bffec7dbc58668e12d60a72d73d546ef5e621373f6debbac8d"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "31f39e9b81b98e02ddff10b52378b8e911c0bde40649088f077b027ad616ca27"
+hash = "5080bf43f3c176eb08f333ff4a2835f1a8d69314e3d5e8893ff4ad86308f30db"
 
 [[files]]
 file = "config/inventoryprofilesnext/villager-trading-config-v2.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/itemscroller.json"
+hash = "4adebed140ffb606a8167d45413d1af07e06e4721415d4df4673d52446320191"
 
 [[files]]
 file = "config/mixed_litter-startup.toml"
