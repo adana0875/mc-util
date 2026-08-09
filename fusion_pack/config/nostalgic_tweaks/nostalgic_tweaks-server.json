@@ -64,10 +64,10 @@
       "disabled": false
     },
     "oldAnimalSpawning": true,
-    "disableBabyAnimalSpawning": false,
+    "disableBabyAnimalSpawning": true,
     "disableAnimalBreeding": false,
     "disableAnimalTempting": false,
-    "keepBabyAnimalWhileOldSpawn": false,
+    "keepBabyAnimalWhileOldSpawn": true,
     "ignoreAnimalBiomeRestrictions": false,
     "disableSheepEatGrass": false,
     "randomSheepWoolRegen": false,
