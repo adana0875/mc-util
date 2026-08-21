@@ -900,11 +900,6 @@ hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
 metafile = true
 
 [[files]]
-file = "mods/shine.pw.toml"
-hash = "a798b1ddcf6ce6699abdce3c48feb62453816cfeb0d01b1b75fdfcdcf44406da"
-metafile = true
-
-[[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
 hash = "3156744d34ca58861a58b6e82574ada7285db5fe54d024db27f08336491fda1b"
 metafile = true
